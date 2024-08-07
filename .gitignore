@@ -1,0 +1,16 @@
+# Node modules
+Frontend/node_modules/
+
+# ASP.NET build files
+Backend/bin/
+Backend/obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+npm-debug.log
+yarn-error.log
